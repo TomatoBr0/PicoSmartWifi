@@ -22,7 +22,8 @@ pico-wifi-project
 
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/TomatoBr0/PicoSmartWifi.git
+
    cd pico-wifi-project
    ```
 
